@@ -1,4 +1,3 @@
-# Discrete-Computational-Structures
 # CENG223 – Discrete Computational Structures
 
 This repository contains my solutions for the take-home exams of **CENG223: Discrete Computational Structures** at **Middle East Technical University (METU)**.
