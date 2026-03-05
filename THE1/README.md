@@ -5,40 +5,34 @@ This folder contains my solution for **Take Home Exam 1** of the course
 
 ## Description
 
-The exam focuses on fundamental concepts of **mathematical logic** used in computer science.
-The problems involve propositional logic, predicate logic, and formal proofs using natural deduction.
+This assignment focuses on fundamental topics from **mathematical logic** that are widely used in computer science.
+The problems involve reasoning about logical statements, translating natural language statements into formal logic, and constructing formal proofs.
 
 ## Topics Covered
 
 * Propositional logic
-* Truth tables
+* Predicate logic
 * Logical equivalence
-* Predicate logic translation
-* Natural deduction proofs
+* Truth tables
+* Natural deduction
 
 ## Problem Overview
 
-### Question 1 – Propositional Logic
+### Question 1 – Logical Expressions
 
-Determine whether a logical expression is a **tautology**, **contradiction**, or **contingency** using a truth table.
-Also prove logical equivalence between expressions using logical laws.
+Analyze logical statements using truth tables and verify logical equivalences using standard logic laws.
 
-### Question 2 – Predicate Logic
+### Question 2 – Predicate Logic Translation
 
-Translate several English statements about **students, courses, and prerequisites** into predicate logic using predefined predicates.
+Express several statements about students and courses using predicate logic.
 
 ### Question 3 – Natural Deduction
 
-Construct a formal proof using natural deduction rules such as:
+Construct a proof using basic natural deduction rules to derive a logical conclusion.
 
-* ∧ introduction / elimination
-* ∨ introduction / elimination
-* → introduction / elimination
-* ¬ introduction / elimination
+### Question 4 – Logical Reasoning
 
-### Question 4 – Logical Reasoning with Predicates
-
-Model statements about **philosophers and scientists** using predicate logic and prove the claim using natural deduction.
+Model a small logical scenario with predicates and prove a related claim using formal reasoning.
 
 ## Files
 
@@ -46,9 +40,9 @@ Model statements about **philosophers and scientists** using predicate logic and
 solution.pdf
 ```
 
-This file contains my complete LaTeX-based solution for the exam.
+This file contains my complete solution for the assignment.
 
 ## Note
 
-This repository only contains my **solutions**.
-The original exam description is summarized for documentation purposes.
+This repository only includes my **solutions**.
+The problem statements are summarized for documentation purposes.
